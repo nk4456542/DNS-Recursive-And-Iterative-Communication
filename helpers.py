@@ -16,6 +16,7 @@ def customPrint(name, value):
     print()
     print(name + ":")
     print(value)
+    print(type(value))
     print()
 
 
